@@ -1,1 +1,2 @@
 testing the thing out to learn git!
+how cool is this?
