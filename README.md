@@ -1,3 +1,4 @@
 # Test
 my first publish
-TEsting out Github as I have mainly used SVN and TFS.
+Testing out Github as I have mainly used SVN and TFS.
+Testing edits now
